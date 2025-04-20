@@ -77,6 +77,4 @@ Your score is: 100%
 ## Author
 This project is created and maintained by Junayed Bin Karim. You can reach out to me through:
 
-GitHub: Junayed Bin Karim
-
-LinkedIn: Junayed Bin Karim
+Email: junayedbin.karim@gmail.com
